@@ -1,0 +1,23 @@
+<DOCTYPE html>
+<html>
+<body <!--style="background-color:lightblue"-->>
+
+<!--Cái này chỉ là chú thích thôi không có gì đặc biệt :v-->
+<!--Cái ni cũng thế
+<img border="0" src="pic.jpg" alt="alt để hiển thị khi éo có ảnh">
+-->
+<p>HTML có đến 140 màu sắc khác nhau, hãy dùng thử tại <a href="https://www.w3schools.com/colors/colors_names.asp"> <!--140 màu lận đó >.<-->đây</a></p>
+
+<p style="background-color:hotpink;"Màu nền của dòng này sẽ là hotpink :v"</p>
+<p style="color:deepskyblue;">Màu của chữ là màu deepskyblue, nghe đũy vch :v</p>
+<p style="border:1px solid red;color:lightskyblue;">Khung đỏ chữ xanh ok :v</p>
+
+<p style="background-color:rgb(255, 99, 71);">Trộn màu RGB vui phết :v</p>
+<p style="background-color:#7FFFD4;">Màu xanh được tạo bằng mã HEX</p>
+<p style="background-color:hsl(145, 100%, 64%);">Chỉ định màu sắc bằng độ bão hòa và độ sáng</p>
+
+<p style="background-color:rgba(145, 200, 255, 0.8);">Màu giống rgb 80%</p>
+<p style="background-color:hsla(145, 100%, 64%, 0.8);">Giá trị hsla thôi</p>
+
+</body>
+</html>
