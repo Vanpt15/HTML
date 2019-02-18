@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<body style="background:pink";>
+
+<p><q>Đây là một trích dẫn</q></p>
+<blockquote>
+
+<p>Đây cũng là trích dẫn nhưng nó tạo thêm cho 2 khoảng trắng trước và sau thành phần "blockquote"
+</blockquote>
+
+<p> <abbr title="Cái abbr để mô tả cụm từ viết tắt"ABC</abbr></p>
+
+<address>
+Thẻ address xác định thông tin của tác giả.<br>
+Đại loại như này<br>
+Mặc định sẽ hiển thị chữ in nghiêng<br>
+</address>
+
+<img src="anh.jpg" width="400" height="400" alt="Ảnh">
+<p> <cite>Ảnh</cite> cái chữ ảnh là tên của bức ảnh nên được đặt trong site và in nghiêng</p>
+
+<p>Đảo từ trái qua phải này<br><bdo dir="rtl">Đảo từ trái qua phải này</bdo></p>
+</body>
+</html>
